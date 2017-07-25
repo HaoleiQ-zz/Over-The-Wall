@@ -3,7 +3,10 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||xxx.com",
+  
   "||2dbook.com",
+  "||trello.com",  
   "||4tern.com",
   "|http://85.17.73.31/",
   "||adorama.com",
