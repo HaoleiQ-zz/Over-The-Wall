@@ -20,7 +20,7 @@ var rules = [
 "||xxx.com",
 "||xxx.com",
 "||xxx.com",
-"||xxxx.com",
+"||bandwagonhost.com",
 "||upwork.com",
 "||2dbook.com",
 "||4tern.com",
