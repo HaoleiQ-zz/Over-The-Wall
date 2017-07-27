@@ -6,6 +6,7 @@ var rules = [
 "||bandwagonhost.com/",
 "||bandwagonhost.com",
 "||upwork.com",
+".upwork.com",
 "||2dbook.com",
 "||4tern.com",
 "|http://85.17.73.31/",
