@@ -1,9 +1,9 @@
 var proxy = "__PROXY__";
 
 var rules = [
-"||xxx.com",
+"||xxx.com/",
 ".xxx.com/",
-"||xxx.com",
+"||xxx.com/",
 ".xxx.com/",
 "||twitter.com",
 ".twitter.com/",
