@@ -5,6 +5,8 @@ var rules = [
 ".xxx.com/",
 "||xxx.com/",
 ".xxx.com/",
+"||dropbox.com/",
+".dropbox.com/",
 "||twitter.com",
 ".twitter.com/",
 ".bandwagonhost.com/",
