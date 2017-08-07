@@ -3,6 +3,8 @@ var proxy = "__PROXY__";
 var rules = [
 "||xxx.com/",
 ".xxx.com/",
+"||xxx.com/",
+".xxx.com/",
 "||kiwivm.64clouds.com/",
 ".kiwivm.64clouds.com/",
 "||dropbox.com/",
