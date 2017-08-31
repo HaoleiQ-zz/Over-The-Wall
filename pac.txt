@@ -481,7 +481,6 @@ var rules = [
 ".google.co.jp",
 ".google.co.kr",
 ".google.co.ma",
-".google.co.mas",
 ".google.co.uk",
 ".google.com",
 ".google.de",
