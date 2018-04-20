@@ -2,11 +2,7 @@
 - ssr://MTYyLjIxOS4xMjcuMTQ6MjUzNDE6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlIzaEpkM2hSWkZkWVRBLz9vYmZzcGFyYW09
 
 - ![](ssr.png)
-
-### Pac-List:
-
-- [PAC](https://raw.githubusercontent.com/HaoLei-Qin/PAC-List/master/pac.txt)
-
+ 
 ### Tools:
 
 - [ShadowsocksR](https://github.com/HaoleiQ/Over-The-Wall/tree/master/Tools/SSR)
@@ -14,6 +10,8 @@
 - [OpenVpn](https://github.com/HaoleiQ/Over-The-Wall/tree/master/Tools/OpenVpn) 
 
 ### Others:
+
+[PAC-List](https://raw.githubusercontent.com/HaoLei-Qin/PAC-List/master/pac.txt)
 
 [Lantern](https://github.com/getlantern/lantern)
 
