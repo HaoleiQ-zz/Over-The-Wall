@@ -1,9 +1,11 @@
-// https://github.com/HaoleiQin/PAC-List
+// https://gitee.com/QinHaolei/Over-The-Wall/blob/master/pac.txt
 
 var proxy = "__PROXY__";
 var rules = [
 "||xxx.com/",
-".xxx.com/",
+".xxx.com/", 
+"||github.com/",
+".github.com/",
 "||steam.com/",
 ".steam.com/",  
 "||bitbucket.org/",
