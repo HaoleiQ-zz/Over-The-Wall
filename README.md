@@ -1,5 +1,5 @@
 ### Free SS SSR VPN:
-- [免费SSR SS VPN ·不定期更新](https://gitee.com/QinHaolei/Over-The-Wall/tree/master/Free-SS-SSR-VPN.md)
+- [Free SSR SS VPN](https://gitee.com/QinHaolei/Over-The-Wall/tree/master/Free-SS-SSR-VPN.md)
 
 ### Tools:
 
