@@ -18,6 +18,6 @@
 [Firefly](https://github.com/yinghuocho/firefly-proxy) 
 
 
-- 感谢打赏!
+- Thank you for the reward! 感谢打赏!
 
 ![](image/wechatAndAliPay.png) 
