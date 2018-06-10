@@ -8,7 +8,7 @@
 - [OpenVpn](https://github.com/HaoleiQ/Over-The-Wall/tree/master/Tools/OpenVpn) 
 
 ### Pac:
-- [Pac-List](https://github.com/HaoleiQ/Over-The-Wall/pac.txt)
+- [Pac-List](https://github.com/HaoleiQ/Over-The-Wall/blob/master/pac.txt)
 
 ### Others:
 
