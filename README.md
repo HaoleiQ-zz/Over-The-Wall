@@ -1,4 +1,3 @@
-- [Pac-List](/pac.txt)
 ### Free SS SSR VPN:
 - [Free SSR SS VPN](/tree/master/Free-SS-SSR-VPN.md)
 
@@ -7,6 +6,9 @@
 - [ShadowsocksR](/Tools/ShadowsocksR)
 - [Shadowsocks](/Tools/Shadowsocks)  
 - [OpenVpn](/Tools/OpenVpn) 
+
+### Pac:
+- [Pac-List](/pac.txt)
 
 ### Others:
 
