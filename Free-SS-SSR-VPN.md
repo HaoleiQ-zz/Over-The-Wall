@@ -58,6 +58,6 @@ ss://cmM0LW1kNTpsaHkxMjM0NTZAMTgxLjIxNS4yNDAuMTkxOjIzMw==\
 - SSR 旧金山
 ssr://MTY3Ljk5LjE2NC4yMjY6ODA6YXV0aF9zaGExX3Y0OmNoYWNoYTIwOmh0dHBfc2ltcGxlOmVHbGhiMmQxWVc0Lz9yZW1hcmtzPTVwZW42WWVSNWJHeE5TMDVUUQ
   
-- 感谢打赏!
+- Thank you for the reward! 感谢打赏!
 
-![](http://qinhaoleisite-1251903635.cosbj.myqcloud.com/source/%E9%92%B1%E6%94%AF%E4%BB%98/wechatAndAliPay.png) 
+![](https://github.com/HaoleiQ/Over-The-Wallimage/wechatAndAliPay.png) 
