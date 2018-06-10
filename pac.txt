@@ -2459,6 +2459,7 @@ var rules = [
 ".git.io",
 "||git.io",
 "|http://softwaredownload.gitbooks.io",
+"|https://github.com",
 ".github.com",
 "|https://gist.github.com",
 "http://cthlo.github.io/hktv",
