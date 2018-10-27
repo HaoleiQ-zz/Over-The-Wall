@@ -21,4 +21,4 @@
 
 - Thank you for the reward! 感谢打赏!
 
-![](https://github.com/HaoleiQ/Over-The-Wall/image/wechatAndAliPay.png) 
+![](https://github.com/HaoleiQ/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
