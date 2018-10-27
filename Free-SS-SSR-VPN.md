@@ -61,4 +61,4 @@ ssr://MTY3Ljk5LjE2NC4yMjY6ODA6YXV0aF9zaGExX3Y0OmNoYWNoYTIwOmh0dHBfc2ltcGxlOmVHbG
   
 - Thank you for the reward! 感谢打赏!
 
-![](https://github.com/HaoleiQ/Over-The-Wallimage/wechatAndAliPay.png) 
+![](https://github.com/HaoleiQ/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
