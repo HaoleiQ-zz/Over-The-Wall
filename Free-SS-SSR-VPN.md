@@ -1,3 +1,6 @@
+- SSR 洛杉矶(长期可用)
+ssr://NDUuNzcuMjA5LjE4NzoyMjYwMTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46YzJ4cGJtdGxjZy8_b2Jmc3BhcmFtPSZyZW1hcmtzPU5EVXVOemN1TWpBNUxqRTROdw
+
 - SS
 ss://Y2hhY2hhMjAtaWV0ZjpodHRwczovL2dvby5nbC9nS2hKQWVAMTAzLjk1LjIwNy4xOTA6MTI3MjE=#%e7%88%b1%e5%9b%bd%e8%b4%a6%e5%8f%b7%e5%88%86%e4%ba%ab
 
