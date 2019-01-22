@@ -1,5 +1,5 @@
 ### Free SS SSR VPN(免费SS SSR):
-- [Free SSR SS VPN](https://github.com/HaoleiQ/Over-The-Wall/wiki)
+- [Free SSR SS VPN](https://github.com/HaoleiQ/Over-The-Wall/blob/master/Wiki.md)
 
 ### Tools:
 
