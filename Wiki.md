@@ -1,6 +1,9 @@
 ### Free SS,SSR
 
 - SS
+ss://YWVzLTI1Ni1nY206d0dRNHZBN0RAcHViLndvY2lhby5tbDoyMjEwMA==
+
+- SS
 ss://Y2hhY2hhMjAtaWV0ZjpodHRwczovL2dvby5nbC9tMXp1MXBAMTAzLjk1LjIwNy4xODA6MTExMTE=#SVIP%e6%9c%ba%e7%a5%a8%e5%88%86%e4%ba%ab
 
 - SSR 
