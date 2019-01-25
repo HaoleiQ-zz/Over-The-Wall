@@ -1,5 +1,8 @@
 ### Free SS,SSR
 
+- SS
+ss://Y2hhY2hhMjAtaWV0ZjpodHRwczovL2dvby5nbC9tMXp1MXBAMTAzLjk1LjIwNy4xODA6MTExMTE=#SVIP%e6%9c%ba%e7%a5%a8%e5%88%86%e4%ba%ab
+
 - SSR 
 ssr://ZnJlZS5zc3NydS5pY3U6NDQzOm9yaWdpbjpyYzQtbWQ1Omh0dHBfc2ltcGxlOmMzTnpjblV1YVdOMS8_b2Jmc3BhcmFtPSZyZW1hcmtzPU1qcm52cVRsajdmdnZKbzNOelF3TVRNNU56RSZncm91cD02TFN0NUxtdzVaeXc1WjJBNzd5YWFIUjBjSE02THk5emMzTnlkUzVwWTNV
 
