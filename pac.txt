@@ -4,8 +4,6 @@ var proxy = "__PROXY__";
 var rules = [
 "||xxx.com",
 ".xxx.com/", 
-"||github.com",
-".github.com/",
 "||https://screenshotmonitor.com",
 ".screenshotmonitor.com",
 "||steam.com/",
@@ -29,8 +27,6 @@ var rules = [
 ".bandwagonhost.com/",
 "||bandwagonhost.com/",
 "||bandwagonhost.com",
-"||upwork.com",
-".upwork.com",
 "||2dbook.com",
 "||4tern.com",
 "|http://85.17.73.31/",
