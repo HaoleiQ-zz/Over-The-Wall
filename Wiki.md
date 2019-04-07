@@ -16,6 +16,6 @@ ssr://MTU3LjIzMC45Mi43OTo5MDMxOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjpwbGFpbjpORE
 ssr://NTQuMTgwLjE0Ny4xMzQ6NDc2NjU6b3JpZ2luOmNoYWNoYTIwOnBsYWluOllYQmxlSFF5TURFNU1EQXgvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0RvdkwzUXVZMjR2UldacVMyaHJidyZncm91cD01THVZNkxTNVUxTlM3N3lhYUhSMGNEb3ZMM1F1WTI0dlJXWnFTMmhyYnc 
 --- 
 
-- 感谢打赏!
+- 随意打赏!
 
 ![](https://github.com/HaoleiQ/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
