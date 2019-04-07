@@ -18,7 +18,8 @@
 
 [Firefly](https://github.com/yinghuocho/firefly-proxy) 
 
-
-- 感谢打赏!
+- 随意打赏!
 
 ![](https://github.com/HaoleiQ/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
+
+* 本项目仅供学习参考,禁止用于一切违反当地法律的行为!
