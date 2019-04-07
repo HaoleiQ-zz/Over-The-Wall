@@ -1,4 +1,4 @@
-### Free SS SSR VPN(免费SS SSR):
+### SS SSR:
 - [Free SSR SS VPN](https://github.com/HaoleiQ/Over-The-Wall/blob/master/Wiki.md)
 
 ### Tools:
@@ -19,6 +19,6 @@
 [Firefly](https://github.com/yinghuocho/firefly-proxy) 
 
 
-- Thank you for the reward! 感谢打赏!
+- 感谢打赏!
 
 ![](https://github.com/HaoleiQ/Over-The-Wall/blob/master/image/wechatAndAliPay.png?raw=true) 
